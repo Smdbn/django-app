@@ -12,7 +12,7 @@ Django
 Python
 HTML/CSS
 JavaScript
-OpenWeather API for weather data
+OpenWeather API for weather data (add your own API key and change the url)
 
 Installation
 Prerequisites
